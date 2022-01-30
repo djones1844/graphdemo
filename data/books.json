@@ -1,0 +1,12 @@
+{
+"books":  [
+    { "id": 1, "name": "he Wealth of Nations", "authorId": 1 },
+    { "id": 2, "name": "The Theory of Moral Sentiments", "authorId": 1 },
+    { "id": 3, "name": "Small is Beautiful: A Study of Economics as if People Mattered", "authorId": 2 },
+    { "id": 4, "name": "The Law", "authorId": 3 },
+    { "id": 5, "name": "The Gulag Archipelago", "authorId": 4 },
+    { "id": 6, "name": "Critique of Practical Reason", "authorId": 5 },
+    { "id": 7, "name": "12 Rules For Life", "authorId": 6 },
+    { "id": 8, "name": "Maps of Meaning: The Architecture of Belief", "authorId": 6 }
+  ]
+}

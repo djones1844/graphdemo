@@ -1,0 +1,10 @@
+{
+"authors":  [
+    { "id": 1, "name": "Adam Smith" },
+    { "id": 2, "name": "E.F. Schumacher" },
+    { "id": 3, "name": "Frederic Bastiat" },
+    { "id": 4, "name": "Aleksandr Solzhenistsyn" },
+    { "id": 5, "name": "Immanuel Kant" },
+    { "id": 5, "name": "Jordan B. Peterson" }
+  ]
+}
